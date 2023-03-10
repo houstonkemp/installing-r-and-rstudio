@@ -18,4 +18,4 @@ As of writing, the current version of R is version 4.2.2.
 
 ## RStudio
 
-RStudio is an integrated development environment, or IDE, for R programming. Download and install it from http://www.rstudio.com/download. RStudio is updated a couple of times a year. When a new version is available, RStudio will let you know. It’s a good idea to upgrade regularly so you can take advantage of the latest and greatest features.
+RStudio is an integrated development environment, or IDE, for R programming. Download and install it from https://posit.co/download/rstudio-desktop/. RStudio is updated a couple of times a year. When a new version is available, RStudio will let you know. It’s a good idea to upgrade regularly so you can take advantage of the latest and greatest features.
